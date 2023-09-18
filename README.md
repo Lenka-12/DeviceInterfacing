@@ -4,9 +4,9 @@ This contains stm32 HAL compatible code for TI temperature and humidity I2C sens
 
 ### HOW to Use this drivers
 
-1. Clone the repository to the local machine
-2. Copy .h files to Core/Inc folder from stm32 cube generated project
-3. Copy .c files to Core/Src folder from stm32 cube generated project
+1. Clone the repository to your machine 
+3. Copy .h files to Core/Inc folder from stm32 cube generated project
+4. Copy .c files to Core/Src folder from stm32 cube generated project
 
 
 
