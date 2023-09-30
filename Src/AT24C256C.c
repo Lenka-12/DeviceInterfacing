@@ -62,8 +62,6 @@ HAL_StatusTypeDef write(I2C_HandleTypeDef* hi2c, uint8_t* pData, uint8_t size){
 			}
 
 
-
-
 		}
 
 		else{
